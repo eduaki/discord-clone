@@ -14,4 +14,4 @@ para iniciar o app desktop via electron
 
 ## projeto bem simples apenas para estudo!
 
-# by eduaki
+by eduaki
