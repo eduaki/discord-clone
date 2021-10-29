@@ -3,7 +3,7 @@
 Esse é projeto de estudo baseado no clone do discord feito pela rocketseat,
 nele foi usado reactJs com typeScript, e electron pra viabilizar para desktop.
 
-## COMANDOS
+### COMANDOS
 
 ### `npm start`
 para iniciar o servidor react
@@ -14,4 +14,4 @@ para iniciar o app desktop via electron
 
 ## projeto bem simples apenas para estudo!
 
-by eduaki
+# by eduaki
