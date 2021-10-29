@@ -6,6 +6,7 @@ const ServerName: React.FC = () => {
   return(
     <Container>
       <Title>Servidor do top</Title>
+      <ExpandIcon/>
     </Container>
   )
 }
