@@ -17,4 +17,4 @@ nele foi usado reactJs com typeScript, e electron pra viabilizar para desktop.
 
 ## projeto bem simples apenas para estudo!
 
-by eduaki
+desenvolvido por eduaki
