@@ -1,6 +1,5 @@
-# clone discord (rocketseat)
-
-Esse é projeto de estudo baseado no clone do discord feito pela rocketseat,
+# clone discord
+Esse é apenas um projeto de estudo.
 nele foi usado reactJs com typeScript, e electron pra viabilizar para desktop.
 
 ### COMANDOS
